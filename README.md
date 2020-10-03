@@ -18,4 +18,4 @@ Hacktoberfest is open to everyone in their global community! Four quality pull r
 
 Completeing 4 of them allows you to be eligible for a limited edition t-shit, created by them or you can also chose to plant a tree and the team will do it for you on your behalf
 
-You can get more details [here](https://hacktoberfest.digitalocean.com/#event-details)
+You can get more details [here](https://hacktoberfest.digitalocean.com/#event-details) 
