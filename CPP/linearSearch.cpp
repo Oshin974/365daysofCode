@@ -28,28 +28,36 @@ using namespace std;
 
 int linearSearch(int arr[], int n, int key)
 {
+    // Traverse through the array
     for (int i = 0; i < n; i++)
     {
+        // Return the index if the key is found
         if (arr[i] == key)
             return i;
     }
+
+    // Return -1 if key is not found
     return -1;
 }
 
 int main()
 {
+    // Read the size of the array
     int N;
     cin >> N;
 
+    // Read the array
     int arr[N];
     for (int i = 0; i < N; i++)
     {
         cin >> arr[i];
     }
 
+    // Read the key to be searched
     int key;
     cin >> key;
 
+    // Make a call to linearSearch function written above main method
     int result = linearSearch(arr, N, key);
     if (result == -1)
         cout << "Key is not found in the array";
