@@ -1,6 +1,6 @@
 # 365daysofCode
 
-This repository consists of all sorts of code in various languages. We would like to collect programs on various programs for the same 
+This repository consists of all sorts of code in various languages. We would like to collect programs on various programs for the same. 
 
 **Opening a Pull Request**:  
 If the project is on GitHub, here’s how to submit a pull request:   
@@ -11,11 +11,11 @@ If the project is on GitHub, here’s how to submit a pull request:
    e) Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.   
    f) Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.   
 
-# Hacktoberfest 2020 
+#Hacktoberfest 2020 
 Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.
 
 Hacktoberfest is open to everyone in their global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
-Completeing 4 of them allows you to be eligible for a limited edition t-shit, created by them or you can also chose to plant a tree and the team will do it for you on your behalf
+Completing 4 of them allows you to be eligible for a limited edition t-shit, created by them or you can also choose to plant a tree and the team will do it for you on your behalf.
 
 You can get more details [here](https://hacktoberfest.digitalocean.com/#event-details) 
